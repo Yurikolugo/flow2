@@ -41,7 +41,7 @@ Para observar el resutlado de este flow, sólo es necesario abrir la pestaña De
 
 A continuación puede verse una vista previa del resultado de este flow.
 
-![](https://github.com/hugoescalpelo/Flow2-NodeRed/blob/main/Screenshot%20from%202022-08-26%2009-42-57.png)
+![](https://github.com/Yurikolugo/flow2-NodeRed/blob/main/flow2.png)
 
 ## Evidencias
 
